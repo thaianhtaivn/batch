@@ -1,0 +1,6 @@
+Hello World!
+
+for(i=0; i<6; i++){
+ println("This is number: %d",i)
+}
+endif
